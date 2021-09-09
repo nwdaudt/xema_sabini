@@ -1,0 +1,14 @@
+/xema_sabini/
+README.md
+-/data
+.csv, .txt, .xlsx files with *Xema sabini* data from OBIS, eBird and GBIF, respectively
+.nc file with chlorophyll-a data
+--/data/birdlife_shp
+BirdLife International shapefile with *Xema sabini* distribution
+--/data/thinning_backup
+Backup from the thinning procedure
+--/data/xema_kernel75_shp
+Polygon resulted from the Kernel analysis 
+-/maps
+Output Figs presented in the paper and supplementary material
+
