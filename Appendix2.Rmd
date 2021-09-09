@@ -9,7 +9,7 @@ output:
 
 # Appendix 2
 
-Supplementary material from Prado et al. (2021) *Marine Ornithology*. This file contains code to reproduce the paper results. This code is also stored in a GitHub repo that you can find at <>.
+Supplementary material from Prado et al. (2021) *Marine Ornithology*. This file contains code to reproduce the paper results. This code is also stored in a GitHub repo that you can find at <https://github.com/nwdaudt/xema_sabini>.
 
 ##### Code by: Gabriel Canani, Jonatas H. F. Prado, Nicholas W. Daudt
 
