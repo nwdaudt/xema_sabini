@@ -1,6 +1,6 @@
 # xema_sabini
 
-Prado, J.H.F., Canani, G., Castilho, P.V. & Daudt, N.W. 2021. *Sabine's Gulls* Xema sabini *outside of their main wintering areas are not necessarily vagrants*. **Marine Ornithology** 49: xx–yy. <www>
+Prado, J.H.F., Canani, G., Castilho, P.V. & Daudt, N.W. 2021. *Sabine's Gulls* Xema sabini *outside of their main wintering areas are not necessarily vagrants*. **Marine Ornithology** 49: 349-357. <http://www.marineornithology.org/content/get.cgi?rn=1442>
   
 Any comments or questions, please do not hesitate to get in touch. You can find two of us on Twitter too - [N. W. Daudt](https://twitter.com/NWDaudt) and [G. Canani](https://twitter.com/CananiGabriel).
   
